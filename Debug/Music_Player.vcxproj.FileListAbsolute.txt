@@ -1,0 +1,2 @@
+C:\Users\FoxSoda\Desktop\Music_Player\Music_Player-main\Music_player\Debug\Music_Player.exe
+C:\Users\FoxSoda\Desktop\Music_Player\Music_Player-main\Music_player\Debug\Music_Player.pdb
