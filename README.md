@@ -5,7 +5,7 @@
 # How to run
 After downloading the program you can:
 
-(RECOMMENDED) - Go to Debug folder and run the .exe file.
+(RECOMMENDED) - Open the folder and run the Music_Player.exe file.
 
 (ALTERNATIVE) - Double click on .vcxproj or open it in Visual Studio. Then run Local Windows Debugger or press F5.
 
