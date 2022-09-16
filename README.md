@@ -1,6 +1,3 @@
-# Requirements
-1. Download SFML 2.5.1 ( https://www.sfml-dev.org/download/sfml/2.5.1/ )
-2. Put the "SFML-2.5.1" file in your (C:) drive
 
 # How to run
 After downloading the program you can:
@@ -20,6 +17,10 @@ Use arrow keys to change Vol. or skip/rewind.
 3. Go to "Music" folder and replace one of the songs with your new one
 4. Make sure to rename your new song to the one you replaced it with (you have to do this bc the code loads songs based on their name)
 5. After running the program the new song should play in place of the old one (after pressing the coresponding num key)
+
+# Requirements (if ALTERNATIVE was chosen)
+1. Download SFML 2.5.1 ( https://www.sfml-dev.org/download/sfml/2.5.1/ )
+2. Put the "SFML-2.5.1" file in your (C:) drive
 
 # Easy future use (if ALTERNATIVE was chosen)
 After running the program once a debug folder will be created. Copy and paste all "sfml-xyz.dll" and "openal32.dll" files into it, then do the same for
