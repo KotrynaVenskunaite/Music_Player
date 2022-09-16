@@ -24,4 +24,4 @@ Use arrow keys to change Vol. or skip/rewind.
 
 # Easy future use (if ALTERNATIVE was chosen)
 After running the program once, a debug folder will be created. Copy and paste all "sfml-xyz.dll" and "openal32.dll" files into it, then do the same for
-"Fonts" and "Music" folders (not the contents in them, just the folders). you can now run the exe file or a shortcut any time.
+"Fonts" and "Music" folders (not the contents in them, just the folders). You can now run the exe file or a shortcut any time.
